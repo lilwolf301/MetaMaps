@@ -1,0 +1,4 @@
+ID: COBALT5152 - Location: (-47.0, 34.4, -39.4)
+ID: COBALT2040 - Location: (-29.0, 34.4, -38.8)
+ID: COBALT4950 - Location: (-91.4, 36.3, 8.9)
+ID: COBALT1652 - Location: (-67.0, 36.2, 7.1)
